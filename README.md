@@ -14,5 +14,5 @@ HomeCredit Demo
 - Home Screen (Content)
  
 # Output
-<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" target="_blank"><img src="https://img.youtube.com/vi/zBGmVRNHBCo/maxresdefault.jpg" 
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" target="_blank"><img src="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" 
 alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a> 
