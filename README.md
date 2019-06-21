@@ -26,4 +26,4 @@ alt="IMAGE ALT TEXT HERE" width="25%" height="25%" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="25%" height="25%" border="10" /></a> 
 
 
-Download APK => https://github.com/opannapo/Flutter-HC/blob/master/output/hc-release-3.apk
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/output/hc-release-3.apk" target="_blank">Download APK</a>
