@@ -11,6 +11,7 @@ void main() {
     baseUrl: 'https://private-a8e48-hcidtest.apiary-mock.com/',
     isProduction: true,
     child: new MyApp(),
+
   );
 
   var devEnv = new AppConfig(

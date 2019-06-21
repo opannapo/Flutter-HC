@@ -13,3 +13,15 @@ HomeCredit Demo
 - Splash Screen (With fake processing)
 - Home Screen (Content)
  
+# Output
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" target="_blank"><img src="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" 
+alt="IMAGE ALT TEXT HERE" width="25%" height="25%" border="10" /></a> 
+
+
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/2.PNG" target="_blank"><img src="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/2.PNG" 
+alt="IMAGE ALT TEXT HERE" width="25%" height="25%" border="10" /></a> 
+
+
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/3.PNG" target="_blank"><img src="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/3.PNG" 
+alt="IMAGE ALT TEXT HERE" width="25%" height="25%" border="10" /></a> 
+
