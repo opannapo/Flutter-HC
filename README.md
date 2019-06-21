@@ -13,3 +13,6 @@ HomeCredit Demo
 - Splash Screen (With fake processing)
 - Home Screen (Content)
  
+# Output
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/screen-output/1.PNG" target="_blank"><img src="https://img.youtube.com/vi/zBGmVRNHBCo/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a> 
