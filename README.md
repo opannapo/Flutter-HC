@@ -15,6 +15,12 @@ HomeCredit Demo
  
 # Output
 
+https://www.youtube.com/watch?v=sgTNErWC6g4
+
+<a href="https://www.youtube.com/embed/sgTNErWC6g4" target="_blank"><img src="https://img.youtube.com/vi/sgTNErWC6g4/maxresdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
+ 
+
 <a href="https://github.com/opannapo/Flutter-HC/blob/master/output/hc-release-3.apk" target="_blank">Download APK</a>
 
 <a href="https://github.com/opannapo/Flutter-HC/blob/master/output/1.PNG" target="_blank"><img src="https://github.com/opannapo/Flutter-HC/blob/master/output/1.PNG" 
