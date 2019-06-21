@@ -15,7 +15,7 @@ HomeCredit Demo
  
 # Output
 
-<a href="https://github.com/opannapo/Flutter-HC/blob/master/output/hc-release-3.apk" target="_blank">### Download APK</a>
+<a href="https://github.com/opannapo/Flutter-HC/blob/master/output/hc-release-3.apk" target="_blank">Download APK</a>
 
 
 ### Video Running on Device (Ios & Android)
